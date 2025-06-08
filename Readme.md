@@ -1,5 +1,6 @@
 Hello!
 
+```bash
 ➜  ~ fastfetch
                              ....              athi@komputa
               .',:clooo:  .:looooo:.           ------------
@@ -28,3 +29,4 @@ Hello!
                                                Disk (/): 110.80 GiB / 914.78 GiB (12%) - ext4
                                                Local IP (wlo1): 192.168.1.5/24
                                                Locale: en_US.UTF-8
+```
